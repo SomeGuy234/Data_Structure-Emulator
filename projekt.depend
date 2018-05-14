@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1526160063 source:c:\users\franciszek\documents\codeblocks projects\c++\projekt\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	"classes.h"
+	"ConsoleColor.h"
+
+1525542541 source:c:\users\franciszek\documents\codeblocks projects\c++\projekt\classes.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	"classes.h"
+
+1526162150 c:\users\franciszek\documents\codeblocks projects\c++\projekt\classes.h
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<list>
+
+1525642621 source:c:\users\franciszek\documents\codeblocks projects\c++\projekt\stack.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	"classes.h"
+	"ConsoleColor.h"
+
+1526159739 c:\users\franciszek\documents\codeblocks projects\c++\projekt\consolecolor.h
+	<iostream>
+	<windows.h>
+
+1525642939 source:c:\users\franciszek\documents\codeblocks projects\c++\projekt\queue.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	"classes.h"
+	"ConsoleColor.h"
+
+1526159739 source:c:\users\franciszek\documents\codeblocks projects\c++\projekt\list.cpp
+	<iostream>
+	<windows.h>
+	<list>
+	"classes.h"
+	"ConsoleColor.h"
+
+1526241090 source:c:\users\franciszek\documents\codeblocks projects\c++\projekt\tree.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	"classes.h"
+	"ConsoleColor.h"
+
